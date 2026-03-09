@@ -20,7 +20,7 @@ let package = Package(
         .package(url: "https://github.com/Andreas424242/swift-nio-ssh.git", branch: "fix-channel-crash-0.3.5"),
         .package(url: "https://github.com/apple/swift-log.git", from: "1.0.0"),
         .package(url: "https://github.com/attaswift/BigInt.git", from: "5.2.0"),
-        .package(url: "https://github.com/apple/swift-crypto.git", from: "3.12.3"),
+        .package(url: "https://github.com/apple/swift-crypto.git", from: "4.0.0"),
         .package(url: "https://github.com/mtynior/ColorizeSwift.git", from: "1.5.0"),
     ],
     targets: [
